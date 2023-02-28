@@ -5,9 +5,11 @@
 
 ->>It can be used smoothly
 
-->>The code has been made using Python language and C Language in Arduino
+->>The code has been made using Python language and C++ Language in Arduino
 
-->>Arduino has been used for show the Demo of the Door.
+->>Tools used are : PyCharm,Arduino IDE,SQL Server and SSMS.
+
+->>Arduino has been used for the Demo of the Door.
 
 <h1>REQUIRED COMPONENT</h1>
 1.ARDUINO UNO
@@ -40,6 +42,6 @@
    ![Logo](/photo/circuitdiagram.jpg)
  **FUNCTIONAL PREVIEW**
  
- ->> At first the python code will be write on any of the python IDE than arduino code will be uploaded to arduino Uno board using 
- arduino IDE and then Run the  1st python code it will collect the sample pictures and then run 2nd code  and it will start the webcam and take pictures , if the picture match with database upto 83% then it will send a charecter to the arduino and arduino will move the servo motor for 5 seconds.
+ ->> At first the python code will be written on any of the python IDE than arduino code will be uploaded to arduino Uno board using 
+ arduino IDE and then Run the  1st python code it will collect the sample pictures and then run 2nd code  and it will start the webcam and take pictures , if the picture match with database upto 83% then it will send a character to the arduino and arduino will move the servo motor for 5 seconds.
 
