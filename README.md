@@ -29,6 +29,8 @@
 
 4.numpy
 
+5.face-recognition
+
 **CIRCUIT DIAGRAM**
 
 ->>The circuit Diagram is given below .The Servo Motor Signal Pin will be Connected to the arduino Pwm Pin Number 9.
