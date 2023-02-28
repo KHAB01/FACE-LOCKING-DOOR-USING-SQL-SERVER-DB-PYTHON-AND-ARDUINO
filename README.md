@@ -1,4 +1,4 @@
-<h1>EMPLOYEES TRACKIN AND FACE LOCKING DOOR PROJECT</h1>
+<h1>EMPLOYEES TRACKING AND FACE LOCKING DOOR PROJECT</h1>
 ->>The project has been made to make door more protective.
 
 ->>User can use their face to unlock the door
