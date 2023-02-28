@@ -12,11 +12,11 @@
 <h1>REQUIRED COMPONENT</h1>
 1.ARDUINO UNO
 
-![Logo](/photo/23.JPG)
+![Logo](/photo/23.jpg)
 
 2.SERVO MOTOR
 
-![Logo](/photo/25.JPG)
+![Logo](/photo/25.jpg)
 
 
 <h1>REQUIRED LIBRARAY</h1>
@@ -35,7 +35,7 @@
     The 5V pin will be connected to Arduino 5v pin and Ground pin will be connected to Arduino Ground pin.
     Arduino must be connected to Pc through arduino Cable. 
    
-   ![Logo](/circuitdiagram.JPG)
+   ![Logo](/photo/circuitdiagram.jpg)
  **FUNCTIONAL PREVIEW**
  
  ->> At first the python code will be write on any of the python IDE than arduino code will be uploaded to arduino Uno board using 
